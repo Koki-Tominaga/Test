@@ -2,5 +2,5 @@
 
 int main(void){
     printf("Hello Github");
-    return;
+    return 0;
 }
